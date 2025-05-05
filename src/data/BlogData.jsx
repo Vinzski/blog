@@ -5,88 +5,88 @@ export const blogData = [
     date: "April 7, 2025",
     summary:
       "Our adventure kicked off in Manila, where we immersed ourselves in the city's rich history by visiting Intramuros, Fort Santiago, and Rizal Park. We capped the day with a relaxing stroll at the Mall of Asia's seaside area.",
-    coverImage: "../public/images/day1/thumbnail-d1.jpg?height=400&width=600",
+    coverImage: "/images/day1/thumbnail-d1.jpg?height=400&width=600",
     images: [
       {
-        url: "../public/images/day1/thumbnail-d1.jpg?height=800&width=1200",
+        url: "/images/day1/thumbnail-d1.jpg?height=800&width=1200",
         caption: "Palacio De Gobernador",
         description:
           "A striking colonial-era building in Intramuros that once served as the residence of the Spanish Governor-General.",
       },
       {
-        url: "../public/images/day1/insidesanagustinchurch.jpg?height=800&width=1200",
+        url: "/images/day1/insidesanagustinchurch.jpg?height=800&width=1200",
         caption: "Inside San Agustin Church",
         description:
           "The breathtaking interior of San Agustin Church, showcasing intricate Baroque architecture and centuries-old religious art.",
       },
       {
-        url: "../public/images/day1/sanagustinchurch.jpg?height=800&width=1200",
+        url: "/images/day1/sanagustinchurch.jpg?height=800&width=1200",
         caption: "San Agustin Church",
         description:
           "Recognized as a UNESCO World Heritage Site, this is the oldest stone church in the Philippines, built in 1607.",
       },
       {
-        url: "../public/images/day1/fortsantiago.jpg?height=800&width=1200",
+        url: "/images/day1/fortsantiago.jpg?height=800&width=1200",
         caption: "Fort Santiago",
         description:
           "A historic fortress that played a key role during the Spanish colonial period, now a solemn museum complex.",
       },
       {
-        url: "../public/images/day1/chillguy.jpeg?height=800&width=1200",
+        url: "/images/day1/chillguy.jpeg?height=800&width=1200",
         caption: "Chill Guy",
         description:
           "A candid moment of me enjoying the relaxed atmosphere of the tour.",
       },
       {
-        url: "../public/images/day1/fortsantiagoentrancewall.jpg?height=800&width=1200",
+        url: "/images/day1/fortsantiagoentrancewall.jpg?height=800&width=1200",
         caption: "Fort Santiago Wall",
         description:
           "The formidable entrance of Fort Santiago, bearing the marks of centuries of colonial defense history.",
       },
       {
-        url: "../public/images/day1/joserizal.jpg?height=800&width=1200",
+        url: "/images/day1/joserizal.jpg?height=800&width=1200",
         caption: "Jose Rizal in Prison",
         description:
           "An exhibit at Fort Santiago portraying the cell of hero Dr. Jose Rizal.",
       },
       {
-        url: "../public/images/day1/hallowedgrounds.jpg?height=800&width=1200",
+        url: "/images/day1/hallowedgrounds.jpg?height=800&width=1200",
         caption: "Hallowed Grounds",
         description:
           "The very grounds where Filipinos were being tortured by Colonials.",
       },
       {
-        url: "../public/images/day1/torture1.jpg?height=800&width=1200",
+        url: "/images/day1/torture1.jpg?height=800&width=1200",
         caption: "Filipinos Being Tortured",
         description:
           "A haunting depiction of the brutal treatment endured by Filipinos under colonial rule, on display at Fort Santiago.",
       },
       {
-        url: "../public/images/day1/torture2.jpg?height=800&width=1200",
+        url: "/images/day1/torture2.jpg?height=800&width=1200",
         caption: "Filipinos Being Tortured",
         description:
           "Another powerful exhibit highlighting the injustices faced by Filipinos during foreign occupation.",
       },
       {
-        url: "../public/images/day1/rizalpark.jpg?height=800&width=1200",
+        url: "/images/day1/rizalpark.jpg?height=800&width=1200",
         caption: "Rizal Park",
         description:
           "A sprawling urban park dedicated to the memory of Dr. Jose Rizal, a serene space in the heart of Manila.",
       },
       {
-        url: "../public/images/day1/rizalpark-group.jpg?height=800&width=1200",
+        url: "/images/day1/rizalpark-group.jpg?height=800&width=1200",
         caption: "Group Picture at Rizal Park",
         description:
           "A memorable snapshot of the group enjoying the iconic monument and greenery at Rizal Park.",
       },
       {
-        url: "../public/images/day1/moa1.jpg?height=800&width=1200",
+        url: "/images/day1/moa1.jpg?height=800&width=1200",
         caption: "Mall of Asia",
         description:
           "One of the largest malls in Asia, perfect for shopping, dining, and soaking up the vibrant Manila vibe.",
       },
       {
-        url: "../public/images/day1/moa2.jpg?height=800&width=1200",
+        url: "/images/day1/moa2.jpg?height=800&width=1200",
         caption: "Mall of Asia Seaside",
         description:
           "A calming view of Manila Bay from the MOA seaside area — the perfect spot to unwind after a day of exploration.",
